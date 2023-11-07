@@ -1,0 +1,5 @@
+# Ignora file binari generati dalla compilazione
+*.o
+*.out
+program
+
